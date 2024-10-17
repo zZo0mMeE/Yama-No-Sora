@@ -13,3 +13,4 @@
 - **CSS3**: For styling and ensuring responsive design.
 - **JavaScript**: Adds dynamic interactions and functionality.
 - **Material Design for Bootstrap (MDB)**: For additional UI components and layout enhancements.
+This is a new line.
